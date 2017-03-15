@@ -22,7 +22,7 @@ Options:
   --help                      # prints this
 
 Examples:
-  $git_promote quality        # promotes current branch to \"qality\"
+  $git_promote quality        # promotes current branch to \"quality\"
   $git_promote quality master # promotes \"quality\" branch to \"master\"
 "
 # to install copy to /usr/local/bin and
